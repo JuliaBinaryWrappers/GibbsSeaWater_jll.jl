@@ -1,0 +1,113 @@
+[[GibbsSeaWater]]
+arch = "armv7l"
+git-tree-sha1 = "ad7b636aed761e1b6cf101fed6a0dcc72d9ae8fa"
+libc = "glibc"
+os = "linux"
+
+    [[GibbsSeaWater.download]]
+    sha256 = "4f34c32a137cb50dbfb2933a0bc3b31c61cf059cbdf838d5439acc3681b972a4"
+    url = "https://github.com/JuliaBinaryWrappers/GibbsSeaWater_jll.jl/releases/download/GibbsSeaWater-v3.5.0+0/GibbsSeaWater.v3.5.0.arm-linux-gnueabihf.tar.gz"
+[[GibbsSeaWater]]
+arch = "x86_64"
+git-tree-sha1 = "3512345b0870187eba7fe74e808115576ae2fd72"
+libc = "glibc"
+os = "linux"
+
+    [[GibbsSeaWater.download]]
+    sha256 = "cf1ef5a412e5f307f4bff2661142ded18325a1ecd0699bb3571014d33c20aacf"
+    url = "https://github.com/JuliaBinaryWrappers/GibbsSeaWater_jll.jl/releases/download/GibbsSeaWater-v3.5.0+0/GibbsSeaWater.v3.5.0.x86_64-linux-gnu.tar.gz"
+[[GibbsSeaWater]]
+arch = "aarch64"
+git-tree-sha1 = "8e02be51251f75df296ee1d3b09ce602340ff6f3"
+libc = "musl"
+os = "linux"
+
+    [[GibbsSeaWater.download]]
+    sha256 = "4f8b5397fe313d0e3dcc7064abc286bf3cec6a8787ef17958035ee5713a6b2c4"
+    url = "https://github.com/JuliaBinaryWrappers/GibbsSeaWater_jll.jl/releases/download/GibbsSeaWater-v3.5.0+0/GibbsSeaWater.v3.5.0.aarch64-linux-musl.tar.gz"
+[[GibbsSeaWater]]
+arch = "powerpc64le"
+git-tree-sha1 = "12bb3604aabf757635ede330c448a450c77f9f07"
+libc = "glibc"
+os = "linux"
+
+    [[GibbsSeaWater.download]]
+    sha256 = "bd6e3f3b3de64a3e9eb09521b54554807f257bedd50ab6cb5d992441851beef2"
+    url = "https://github.com/JuliaBinaryWrappers/GibbsSeaWater_jll.jl/releases/download/GibbsSeaWater-v3.5.0+0/GibbsSeaWater.v3.5.0.powerpc64le-linux-gnu.tar.gz"
+[[GibbsSeaWater]]
+arch = "x86_64"
+git-tree-sha1 = "e8a4526450e5834068c9d510e9fbf3bdf0deb8f7"
+os = "macos"
+
+    [[GibbsSeaWater.download]]
+    sha256 = "385276fc8a4c71d2b5da1f394342c7e7059968b624acffdf199ea9001b233443"
+    url = "https://github.com/JuliaBinaryWrappers/GibbsSeaWater_jll.jl/releases/download/GibbsSeaWater-v3.5.0+0/GibbsSeaWater.v3.5.0.x86_64-apple-darwin14.tar.gz"
+[[GibbsSeaWater]]
+arch = "x86_64"
+git-tree-sha1 = "c345ba1a5b9bf4c4602aac47ec1266250949c178"
+libc = "musl"
+os = "linux"
+
+    [[GibbsSeaWater.download]]
+    sha256 = "80223142bfa28c626f21a52f03a3c91773d3f7135747f426754afd722bbed643"
+    url = "https://github.com/JuliaBinaryWrappers/GibbsSeaWater_jll.jl/releases/download/GibbsSeaWater-v3.5.0+0/GibbsSeaWater.v3.5.0.x86_64-linux-musl.tar.gz"
+[[GibbsSeaWater]]
+arch = "x86_64"
+git-tree-sha1 = "69e912c83fb22e66f4461bc73b69b79632c66386"
+os = "windows"
+
+    [[GibbsSeaWater.download]]
+    sha256 = "e3797fb6898496536cdcd290a39820a85e73ff7ba9c1c455ea31c9ef44871d8b"
+    url = "https://github.com/JuliaBinaryWrappers/GibbsSeaWater_jll.jl/releases/download/GibbsSeaWater-v3.5.0+0/GibbsSeaWater.v3.5.0.x86_64-w64-mingw32.tar.gz"
+[[GibbsSeaWater]]
+arch = "i686"
+git-tree-sha1 = "ffb5ca774e772cd5f0c8adfd617f283c9e381efb"
+libc = "glibc"
+os = "linux"
+
+    [[GibbsSeaWater.download]]
+    sha256 = "2144c49d7e99491fc3c8350b2ef288a52d51333db18e287cec086827cffb6205"
+    url = "https://github.com/JuliaBinaryWrappers/GibbsSeaWater_jll.jl/releases/download/GibbsSeaWater-v3.5.0+0/GibbsSeaWater.v3.5.0.i686-linux-gnu.tar.gz"
+[[GibbsSeaWater]]
+arch = "aarch64"
+git-tree-sha1 = "28f71074317d1cb6dcb8bb64f151281380d56871"
+libc = "glibc"
+os = "linux"
+
+    [[GibbsSeaWater.download]]
+    sha256 = "d061bfd133afe909b41a508ec4f2a355059f378f102df40e40190a64358162b9"
+    url = "https://github.com/JuliaBinaryWrappers/GibbsSeaWater_jll.jl/releases/download/GibbsSeaWater-v3.5.0+0/GibbsSeaWater.v3.5.0.aarch64-linux-gnu.tar.gz"
+[[GibbsSeaWater]]
+arch = "i686"
+git-tree-sha1 = "b3a5db13fa86af97ec90e0d56726a960f8144f68"
+libc = "musl"
+os = "linux"
+
+    [[GibbsSeaWater.download]]
+    sha256 = "48f62a90c416fa1dd596574d1a62fbc79adbce9d758d8556945e96460cd6c721"
+    url = "https://github.com/JuliaBinaryWrappers/GibbsSeaWater_jll.jl/releases/download/GibbsSeaWater-v3.5.0+0/GibbsSeaWater.v3.5.0.i686-linux-musl.tar.gz"
+[[GibbsSeaWater]]
+arch = "x86_64"
+git-tree-sha1 = "d622205fe01dbc33be7b6dafac69524601de915f"
+os = "freebsd"
+
+    [[GibbsSeaWater.download]]
+    sha256 = "fe542f4345d2d86fcd39e221485361497bf44e1171696b63b6c30f9dfe87f605"
+    url = "https://github.com/JuliaBinaryWrappers/GibbsSeaWater_jll.jl/releases/download/GibbsSeaWater-v3.5.0+0/GibbsSeaWater.v3.5.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[GibbsSeaWater]]
+arch = "i686"
+git-tree-sha1 = "5accb3fb865a87d4b29ae5b2a7b61a4f18542801"
+os = "windows"
+
+    [[GibbsSeaWater.download]]
+    sha256 = "0f15d3028d81213c0cb9d9152743298881d27985b79f1e0153f858ad99840905"
+    url = "https://github.com/JuliaBinaryWrappers/GibbsSeaWater_jll.jl/releases/download/GibbsSeaWater-v3.5.0+0/GibbsSeaWater.v3.5.0.i686-w64-mingw32.tar.gz"
+[[GibbsSeaWater]]
+arch = "armv7l"
+git-tree-sha1 = "857c1d946149e3565b6f4b3b94a5b89e8f9e23b8"
+libc = "musl"
+os = "linux"
+
+    [[GibbsSeaWater.download]]
+    sha256 = "891391310536e3700c6e86d6531601da75309086e704d4781dde54b13ffe8109"
+    url = "https://github.com/JuliaBinaryWrappers/GibbsSeaWater_jll.jl/releases/download/GibbsSeaWater-v3.5.0+0/GibbsSeaWater.v3.5.0.arm-linux-musleabihf.tar.gz"
